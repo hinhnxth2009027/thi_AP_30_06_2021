@@ -1,0 +1,6 @@
+C:\Users\5470\RiderProjects\thi_AP\thi_AP\bin\Debug\thi_AP.exe
+C:\Users\5470\RiderProjects\thi_AP\thi_AP\bin\Debug\thi_AP.pdb
+C:\Users\5470\RiderProjects\thi_AP\thi_AP\obj\Debug\thi_AP.csprojAssemblyReference.cache
+C:\Users\5470\RiderProjects\thi_AP\thi_AP\obj\Debug\thi_AP.csproj.CoreCompileInputs.cache
+C:\Users\5470\RiderProjects\thi_AP\thi_AP\obj\Debug\thi_AP.exe
+C:\Users\5470\RiderProjects\thi_AP\thi_AP\obj\Debug\thi_AP.pdb
